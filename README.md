@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khaliljuke
-- 👀 I’m interested in 3ija bel margaz
-- 🌱 I’m currently learning python and c
+- 👀 I’m interested in Data Sience 
+- 🌱 I’m currently learning python (.Net) and c
 - 💞️ I’m looking to collaborate on a C project 
 - 📫 How to reach me ahmedkhalil.bensassi@esprit.tn 
 
